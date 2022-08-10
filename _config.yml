@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 linkedin_username: JeanProg
-github_username: JeanProg
+github_username: JeanProgGit
 
 # Build settings
 markdown: kramdown
