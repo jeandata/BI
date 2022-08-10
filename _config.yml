@@ -1,7 +1,7 @@
 # Site settings
-title: Portfólio - Jean Alves
+title: Portfólio
 email: jean_prog@hotmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Olá! Seja bem-vindo(a) ao meu portfólio. Eu me chamo Jean e sou graduado em Ciência da computação e pós-graduado em Ciência de dados."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -17,7 +17,7 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/jeanprog/
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/JeanProgGit
 
 # Build settings
 markdown: kramdown
