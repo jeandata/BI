@@ -129,10 +129,15 @@ body { -webkit-tap-highlight-color: #222; }
 
 }
 
-#Fundo{ 
+#Fundo { 
     background:#090909;
     width: 100%;
     height: 100%;
+
+}
+
+#branco {
+        color: #ffff;
 
 }
 /*# sourceMappingURL=main.css.map */
