@@ -16,7 +16,7 @@ p { font-size: 16px; line-height: 1.5; margin-bottom: 20px; }
 
 .bg-primary { background-color: #222; }
 
-.bgdark { background-color: #222; color: white; }
+.bg-dark { background-color: #222; }
 
 .text-faded { color: rgba(255, 255, 255, 0.7); }
 
